@@ -2,7 +2,7 @@
 
 I'm Daniel
 
-Studying Python
+# Studying Python
 
 ## Academic qualifications:
 ## Eletric engineer by UFMG
