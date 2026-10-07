@@ -5,7 +5,7 @@ I'm Daniel
 # Studying Python
 
 ## Academic qualifications:
-## Eletric engineer by UFMG
+## Electrical engineer by UFMG
 ## Workplace Safety engineer by FUMEC
 ## Master in Work, Health and environment by FUNDACENTRO
 
