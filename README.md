@@ -1,4 +1,13 @@
-## Hi there 👋
+ # Hi there 👋
+
+I'm Daniel
+
+Studying Python
+
+Academic qualifications:
+Eletric engineer by UFMG
+Workplace Safety engineer by FUMEC
+Master in Work, Health and environment by FUNDACENTRO
 
 <!--
 **DGraciliano/DGraciliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
